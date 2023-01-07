@@ -1,6 +1,6 @@
 ## About Me:
 
-I am a Developer that made Discord Bots and Websites!
+I am a Developer that makes Discord Bots and Websites!
 - 🔭 I’m currently working on **2 Projects**
 - 📫 You can find me at 
 
